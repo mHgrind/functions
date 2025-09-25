@@ -1,2 +1,2 @@
 # functions
-functions that i have coded
+useful c functions that i have coded.
